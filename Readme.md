@@ -25,7 +25,7 @@ Currently, the program supports recognition of digits:
 - Each row should contain 5 values (only 0 or 1).
 - Use spaces between values.
 
-Example Input:
+Example Input:  
 0 1 1 1 0  
 1 0 0 0 1   
 1 0 0 0 1  
