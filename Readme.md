@@ -34,7 +34,7 @@ Example Input:
 
 ## Output
 - The program displays your drawn digit using:
-  # for 1
+  . for 1
   . for 0
 - It then prints the recognized digit or a message if it is unsure.
 
