@@ -26,11 +26,11 @@ Currently, the program supports recognition of digits:
 - Use spaces between values.
 
 Example Input:
-0 1 1 1 0
-1 0 0 0 1
-1 0 0 0 1
-1 0 0 0 1
-0 1 1 1 0
+0 1 1 1 0  
+1 0 0 0 1   
+1 0 0 0 1  
+1 0 0 0 1  
+0 1 1 1 0  
 
 ## Output
 - The program displays your drawn digit using:
